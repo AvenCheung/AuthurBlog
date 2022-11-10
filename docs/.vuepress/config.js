@@ -36,7 +36,7 @@ module.exports = {
     // 默认值是 true 。设置为 false 来禁用所有页面的 上一篇 链接
     prevLinks: true,
     // 导航栏显示 gitee 仓库
-    repo: 'https://github.com/Authur942/AuthurBlog',
+    repo: 'https://gitee.com/AuthurKing/authur-blog',
     repoLabel: 'Gitee',
     // social: [
     //   {
